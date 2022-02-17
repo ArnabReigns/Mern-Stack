@@ -27,4 +27,4 @@ app.get("/contact", (req, res) => {
 });
 
 const port = 3000;
-app.listen(port, () => `Server running on port ${port}`);
+app.listen(port, () => `Server running on port ${port}`)
